@@ -1,6 +1,6 @@
 # Site settings
-title: Course Website
-subtitle: Title of the Course
+title: Arificial Intelligence
+subtitle: Arificial Intelligence by the University of Zanjan
 description: |
     Add a description of your course. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
     Etiam fermentum massa id justo varius, vitae blandit nibh aliquet. 
@@ -12,7 +12,7 @@ description: |
     Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis. 
     Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
     Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "https://rahmanidashti.github.io/" # the subpath of your site, e.g. /blog/
 url: "https://rahmanidashti.github.io/znuai/" # the base hostname & protocol for your site
 syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
 githubdir: "rahmanidashti/znuai"
