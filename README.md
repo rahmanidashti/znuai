@@ -1,2 +1,2 @@
 # Artificial Intelligence
-MASlab, the University of Zanjan
+[MASlab](maslab.znu.ac.ir), University of Zanjan
