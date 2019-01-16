@@ -2,16 +2,15 @@
 title: Arificial Intelligence
 subtitle: Arificial Intelligence by the University of Zanjan
 description: |
-    Add a description of your course. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Etiam fermentum massa id justo varius, vitae blandit nibh aliquet. 
-    Nam consequat accumsan massa id lacinia. Proin ac placerat neque. Vivamus ornare eget tortor ac tincidunt. 
-    Mauris semper viverra dui in molestie. Proin bibendum metus orci, quis sollicitudin ligula pretium non. 
-    Integer nec lacus eget neque laoreet semper. Pellentesque eu dolor rutrum, consectetur enim nec, fermentum odio. 
-    Duis venenatis metus cursus, ultrices nulla in, dapibus urna. Fusce pellentesque eros sed justo viverra ultricies. 
-    Morbi porttitor dui ut erat congue accumsan. Donec eget turpis quam. Nam quis lobortis nisl. 
-    Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis. 
-    Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
-    Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
+    This course is about the theory and practice of Artificial Intelligence. 
+    We will study modern techniques for computers to represent task-relevant information and make intelligent (i.e., satisficing or optimal) decisions towards the achievement of goals.
+    The search and problem-solving methods are applicable throughout a large range of industrial, civil, medical, financial, robotic, and information systems.
+    We will investigate questions about AI systems such as: how to represent knowledge, how to effectively generate appropriate sequences of actions and how to search among alternatives to find optimal or near-optimal solutions.
+    We will also explore how to deal with uncertainty in the world and how to learn from experience.
+    We will cover the aggregation of conflicting preferences and computational game theory.
+    Throughout the course, we will discuss topics such as AI and Ethics and introduce applications related to AI for Social Good.
+    We expect that by the end of the course students will have a thorough understanding of the algorithmic foundations of AI, how probability and AI are closely interrelated, 
+    and how automated agents make decisions. We also expect students to acquire a strong appreciation of the big-picture aspects of developing fully autonomous intelligent agents.
 baseurl: "https://rahmanidashti.github.io/" # the subpath of your site, e.g. /blog/
 url: "https://rahmanidashti.github.io/znuai/" # the base hostname & protocol for your site
 syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
