@@ -35,7 +35,7 @@ markdown: kramdown
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
-include: ['_images', '_css']
+include: ['_images', 'znuai/_css']
 
 # SEO stuff
 # google_author: ""
