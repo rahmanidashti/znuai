@@ -6,10 +6,12 @@ Office hours:
 
 ## Administrivia
 Here you will find administrative information for the Spring 1397:
-- __Class schedule:__ 
-  - Saturaday, 8 to 9.30, Room 
-  - Thursday, 9.30 to 11, Room
-- __Final exam__: Wednesday, June 9, 8:30-10:20
+
+__Class schedule:__ 
+ - Saturaday, 8 to 9.30, Room 
+ - Thursday, 9.30 to 11, Room
+ 
+__Final exam__: Wednesday, June 9, 8:30-10:20
 
 ## Teaching Assistant
 Hoseein A. Rahmani (srahmani@znu.ac.ir)  
