@@ -1,4 +1,8 @@
-- title: "Sample .Rmd File"
-  filename: Untitled
+- title: "Introduction to AI"
+  filename: intro
   dirname: untitled-lecture
-  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+  tldr: "AI: history, state-of-the-art; Captcha, ESP game, Introduction"
+- title: "Introduction to AI"
+  filename: intro
+  dirname: untitled-lecture
+  tldr: "AI: history, state-of-the-art; Captcha, ESP game, Introduction"
