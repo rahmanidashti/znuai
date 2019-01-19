@@ -12,6 +12,9 @@ This page contains link to the lectures I give throughout the semester. Clicking
 		<span>
 			<a href="{{ site.url }}/{{ lectures.dirname }}/{{ lectures.filename }}.pdf">{{ lectures.title }}</a>
 		</span>
+		<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+			{{ lectures.date }}
+		</strong>
 		<br>
 		<span class = "postlower">
 		<strong>Details:
