@@ -4,7 +4,19 @@ title: Lectures
 permalink: /lectures/
 ---
 
-This page contains link to the lectures I give throughout the semester. Clicking the title of the week's lecture will go to a PDF, embedded in the user's browser, by default. The bottom right icons link to the Github directory for the lecture (<i class="fab fa-github"></i>), the R Markdown document for the lecture (<i class="fab fa-r-project"></i>), and a PDF, embedded on Github, for the lecture (<i class="fas fa-file-pdf"></i>).
+# Books
+The required textbook for this course is:
+- [Artificial Intelligence: A Modern Approach (Third Edition](http://aima.cs.berkeley.edu/), by Stuart J. Russell, Peter Norvig, Prentice Hall 2009 .
+A supplementary textbook (recommended, but not required) is:
+- [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Morgan-Kaufmann/dp/1558604677), by Nils J. Nilsson. Morgan Kaufmann 1999.
+Lecture material will be drawn from both textbooks, as well as from some of the recent online AI literature.
+
+# Lectures
+The following contains link to the lectures I give throughout the semester. Clicking the title of the week's lecture will go to a PDF.
+
+<!--
+embedded in the user's browser, by default. The bottom right icons link to the Github directory for the lecture (<i class="fab fa-github"></i>), the R Markdown document for the lecture (<i class="fab fa-r-project"></i>), and a PDF, embedded on Github, for the lecture (<i class="fas fa-file-pdf"></i>).
+-->
 
 <ul id="archive">
 	{% for lectures in site.data.lectures %}
