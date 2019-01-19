@@ -7,7 +7,7 @@
 - title: "Introduction to AI"
   week: 1
   date: 16.10.1397
-  filename: intro
+  filename:
   dirname: files
   tldr: "AI: history, state-of-the-art; Captcha, ESP game, Introduction"
 - title: "Holiday"
@@ -25,7 +25,7 @@
 - title: "Uninformed Search"
   week: 3
   date: 27.11.1397
-  filename: uninformed_search
+  filename:
   dirname: files
   tldr: "DFS, BFS, iterative deepening etc. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
 - title: "Informed Search"
