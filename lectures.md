@@ -12,13 +12,16 @@ This page contains link to the lectures I give throughout the semester. Clicking
 		<span>
 			<a href="{{ site.url }}/{{ lectures.dirname }}/{{ lectures.filename }}.pdf">{{ lectures.title }}</a>
 		</span>
-		<span style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
-			Week: {{ lectures.weeks }}, Date: {{ lectures.date }}
+		<span>
+			<strong> Week: </strong> {{ lectures.week }}
+			<strong> Date: </strong> {{ lectures.date }}
 		</span>
 		<br>
 		<span class = "postlower">
-		<strong>Details:
-			</strong> {{ lectures.tldr }}
+		<strong>
+			Details:
+		</strong>
+			{{ lectures.tldr }}
 		</span>
 		<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 			<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ lectures.dirname }}">
