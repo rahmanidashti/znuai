@@ -5,11 +5,7 @@ permalink: /policies/
 ---
 
 # Language
-Course programming assignments will be in Python. We do not assume that students have previous experience with the language, but we do expect you to learn the basics very rapidly. Project 0 is designed to teach you the basics of Python, but if you want to get a head start here is some good tutorial: 
-
-- [W3Schools](https://www.w3schools.com/python/)
-- [Tutorialspoint](https://www.tutorialspoint.com/python/)
-- [DataCAmp](https://www.learnpython.org/)
+Course programming assignments will be in Python. We do not assume that students have previous experience with the language, but we do expect you to learn the basics very rapidly. Project 0 is designed to teach you the basics of Python, but if you want to get a head start here is some good tutorial: [W3Schools](https://www.w3schools.com/python/), [Tutorialspoint](https://www.tutorialspoint.com/python/), [DataCAmp](https://www.learnpython.org/)
 
 # Assignments
 This class includes five programming projects and regular electronic assignments.
