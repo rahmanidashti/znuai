@@ -10,9 +10,21 @@
   filename: intro
   dirname: files
   tldr: "AI: history, state-of-the-art; Captcha, ESP game, Introduction"
+- title: "Holiday"
+  week: 2
+  date: 20.11.1395
+  filename:
+  dirname:
+  tldr: "There is no any materials."
 - title: "Uninformed Search"
   week: 2
-  date: 16.11.1395
-  filename: intro
+  date: 23.11.1395
+  filename: uninformed_search
   dirname: files
-  tldr: "DFS, BFS, iterative deepening etc. Lecture slides: Courtesy of Tomas Lozano-Perez - MIT"
+  tldr: "DFS, BFS, iterative deepening etc. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
+- title: "Uninformed Search"
+  week: 3
+  date: 27.11.1395
+  filename: uninformed_search
+  dirname: files
+  tldr: "DFS, BFS, iterative deepening etc. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
