@@ -31,12 +31,12 @@
 - title: "Informed Search"
   week: 3
   date: 30.11.1397
-  filename: uninformed_search_1
+  filename: informed_search_1
   dirname: files
   tldr: "BFS, Uniform-Cost search, Heuristic and A*  search. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
 - title: "Informed Search"
   week: 4
   date: 04.12.1397
-  filename: uninformed_search_2
+  filename: informed_search_2
   dirname: files
   tldr: "BFS, Uniform-Cost search, Heuristic and A*  search. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
