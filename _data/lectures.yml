@@ -11,7 +11,7 @@
   dirname: files
   tldr: "AI: history, state-of-the-art; Captcha, ESP game, Introduction"
 - title: "Uninformed Search"
-  weeks: 2
+  week: 2
   date: 16.11.1395
   filename: intro
   dirname: files
