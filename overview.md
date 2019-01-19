@@ -21,3 +21,16 @@ Rasoul Mirzaei (mirzaei.rasoul@znu.ac.ir)
 Office hours:
 
 Kosar Hossein Zadeh
+
+## Grading
+- Midterms 10% (each)
+- Final 30%
+- Programming homework 30%
+- Written homework 15%
+- Participation 5%
+
+## Announcements + Q&A
+We will use Piazza for questions and any course announcements. (we will think about it!)
+
+## Submitting Assignments
+Students will submit their homework electronically using [ZCS](http://zcs.znu.ac.ir).
