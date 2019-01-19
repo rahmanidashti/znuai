@@ -20,7 +20,7 @@ __Ethics__: Submissions should acknowledge all collaborators and sources consult
 
 # Grading
 
-__Regrade Policy__: If you believe an error has been made in the grading of one of your exams or assignments, you may send an email to the staff list with a detailed explanation of which problems you think we marked incorrectly and why. We will examine your entire submission in detail, your grade can go up or down as a result of a regrade request.
+If you believe an error has been made in the grading of one of your exams or assignments, you may send an email to the staff list with a detailed explanation of which problems you think we marked incorrectly and why. We will examine your entire submission in detail, your grade can go up or down as a result of a regrade request.
 
 # Textbook
 No textbook is required for this course. For students who want to read more, we recommend two popular books at [Materials](https://rahmanidashti.github.io/znuai/materials/). Be aware, however, that this is not a course textbook, so our presentation does not necessarily follow the presentation in the book.
