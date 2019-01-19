@@ -12,6 +12,7 @@ This page contains link to the lectures I give throughout the semester. Clicking
 		<span>
 			<a href="{{ site.url }}/{{ lectures.dirname }}/{{ lectures.filename }}.pdf">{{ lectures.title }}</a>
 		</span>
+		<br>
 		<span>
 			<strong> Week: </strong> {{ lectures.week }}
 			<strong> Date: </strong> {{ lectures.date }}
