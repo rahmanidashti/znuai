@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Lectures
-permalink: /lectures/
+title: Course Materials
+permalink: /materials/
 ---
 
 # Books
-The required textbook for this course is [Artificial Intelligence: A Modern Approach (Third Edition)](http://aima.cs.berkeley.edu/), and a supplementary textbook (recommended, but not required) is [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Morgan-Kaufmann/dp/1558604677).
-
-Lecture material will be drawn from both textbooks, as well as from some of the recent online AI literature.
+The required textbook for this course is [Artificial Intelligence: A Modern Approach (Third Edition)](http://aima.cs.berkeley.edu/), and a supplementary textbook (recommended, but not required) is [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Morgan-Kaufmann/dp/1558604677). Lecture material will be drawn from both textbooks, as well as from some of the recent online AI literature.
 
 # Lectures
 The following contains link to the lectures I give throughout the semester. Clicking the title of the week's lecture will go to a PDF.
