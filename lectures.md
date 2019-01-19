@@ -5,10 +5,8 @@ permalink: /lectures/
 ---
 
 # Books
-The required textbook for this course is:
-- [Artificial Intelligence: A Modern Approach (Third Edition](http://aima.cs.berkeley.edu/), by Stuart J. Russell, Peter Norvig, Prentice Hall 2009.  
-A supplementary textbook (recommended, but not required) is:
-- [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Morgan-Kaufmann/dp/1558604677), by Nils J. Nilsson. Morgan Kaufmann 1999.  
+The required textbook for this course is [Artificial Intelligence: A Modern Approach (Third Edition)](http://aima.cs.berkeley.edu/), and a supplementary textbook (recommended, but not required) is [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Morgan-Kaufmann/dp/1558604677).
+
 Lecture material will be drawn from both textbooks, as well as from some of the recent online AI literature.
 
 # Lectures
