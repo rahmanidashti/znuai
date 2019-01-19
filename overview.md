@@ -24,7 +24,7 @@ Kosar Hossein Zadeh
 
 ## Grading
 Your final grade will be assigned based on the following (tentative weighting):
-- Midterms 10% (each)
+- Midterms 10% (each) (No preset time)
 - Final 30%
 - Programming homework 35%
 - Written homework 10%
