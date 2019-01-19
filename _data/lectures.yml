@@ -14,7 +14,7 @@
   week: 2
   date: 20.11.1397
   filename:
-  dirname:
+  dirname: files
   tldr: "There is no any materials."
 - title: "Uninformed Search"
   week: 2
@@ -46,3 +46,39 @@
   filename: CSP
   dirname: files
   tldr: "Backtracking algorithm, Forward Checking and Constraint Propagation."
+- title: "Beyond Classical Search"
+  week: 5
+  date: 11.12.1397
+  filename: advanced_search
+  dirname: files
+  tldr: "Hill Climbing, Simulated Annealing"
+- title: "Beyond Classical Search"
+  week: 5
+  date: 14.12.1397
+  filename: GA
+  dirname: files
+  tldr: "Genetic Algorithms"
+- title: "Games"
+  week: 6
+  date: 18.12.1397
+  filename: games
+  dirname: files
+  tldr: "Adversarial Search, minimax, alpha-beta pruning"
+- title: "Intro to Game Theory"
+  week: 6
+  date: 21.12.1397
+  filename: 
+  dirname: files
+  tldr: "Game theory, Nash eq."
+- title: "Holiday"
+  week: 7
+  date: 25.12.1397
+  filename: 
+  dirname: files
+  tldr: "There is no any materials."
+- title: "Holiday"
+  week: 7
+  date: 28.12.1397
+  filename: 
+  dirname: files
+  tldr: "There is no any materials."
