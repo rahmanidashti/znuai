@@ -26,7 +26,7 @@ This page contains link to the lectures I give throughout the semester. Clicking
 	<li class="archiveposturl">
 		<span><a href="{{ site.url }}/{{ lectures.dirname }}/{{ lectures.filename }}.pdf">{{ lectures.title }}</a></span><br
 																     <span class = "postlower">
-		<strong>tl;dr:</strong> {{ lectures.tldr }}</span>
+		<strong>Details:</strong> {{ lectures.tldr }}</span>
 		<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 	<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ lectures.dirname }}"><i class="fab fa-github"></i></a>&nbsp;&nbsp;
 	<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ lectures.dirname }}/{{ lectures.filename}}.Rmd"><i class="fab fa-r-project"></i></a>&nbsp;&nbsp;
