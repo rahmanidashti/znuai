@@ -12,7 +12,7 @@ description: |
     We expect that by the end of the course students will have a thorough understanding of the algorithmic foundations of AI, how probability and AI are closely interrelated, 
     and how automated agents make decisions. We also expect students to acquire a strong appreciation of the big-picture aspects of developing fully autonomous intelligent agents.
 baseurl: "https://rahmanidashti.github.io/" # the subpath of your site, e.g. /blog/
-url: "https://rahmanidashti.github.io/znuai/" # the base hostname & protocol for your site
+url: "https://rahmanidashti.github.io/znuai" # the base hostname & protocol for your site
 syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
 githubdir: "rahmanidashti/znuai"
 
