@@ -19,31 +19,8 @@ __Slip days__: Programming projects must be turned in electronically by 11:59pm 
 __Ethics__: Submissions should acknowledge all collaborators and sources consulted. All code and written responses should be original. We trust you all to submit your own work, but to protect the integrity of the course from anyone who doesn’t want to play by the rules, we will actively be checking for code plagiarism (both from current classmates and previous semesters).
 
 # Grading
-Overall grades will be determined from:
 
-Programming Assignments (30%)
-Electronic Assignments (10%)
-Midterm exam 1 (10%)
-Midterm Exam 2 (15%)
-Final Exam (35%)
-Grades are on the following fixed scale:
-
-A	[90 – 100]%
-A-	[85 – 90)%
-B+	[80 – 85)%
-B	[75 – 80)%
-B-	[70 – 75)%
-C+	[65 – 70)%
-C	[60 – 65)%
-C-	[55 – 60)%
-D+	[50 – 55)%
-D	[45 – 50)%
-D-	[40 – 45)%
-F	[0 – 40)%
-
-These cutoffs represent grade minimums. We may adjust grades upward based on class participation, extra credit, etc. The grade of A+ will be awarded at the professor’s discretion based on exceptional performance.
-
-Regrade Policy: If you believe an error has been made in the grading of one of your exams or assignments, you may resubmit it for a regrade. For any regrade requests, send an email to the staff list with a detailed explanation of which problems you think we marked incorrectly and why. Regrades for cases where we mis-applied a rubric in an individual case are much more likely to be successful than regrades that argue about relative point values within the rubric, as the rubric is applied to the entire class. Because we will examine your entire submission in detail, your grade can go up or down as a result of a regrade request.
+__Regrade Policy__: If you believe an error has been made in the grading of one of your exams or assignments, you may send an email to the staff list with a detailed explanation of which problems you think we marked incorrectly and why. We will examine your entire submission in detail, your grade can go up or down as a result of a regrade request.
 
 # Textbook
 No textbook is required for this course. For students who want to read more, we recommend two popular books at [Materials](https://rahmanidashti.github.io/znuai/materials/). Be aware, however, that this is not a course textbook, so our presentation does not necessarily follow the presentation in the book.
