@@ -12,19 +12,31 @@
   tldr: "AI: history, state-of-the-art; Captcha, ESP game, Introduction"
 - title: "Holiday"
   week: 2
-  date: 20.11.1395
+  date: 20.11.1397
   filename:
   dirname:
   tldr: "There is no any materials."
 - title: "Uninformed Search"
   week: 2
-  date: 23.11.1395
+  date: 23.11.1397
   filename: uninformed_search
   dirname: files
   tldr: "DFS, BFS, iterative deepening etc. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
 - title: "Uninformed Search"
   week: 3
-  date: 27.11.1395
+  date: 27.11.1397
   filename: uninformed_search
   dirname: files
   tldr: "DFS, BFS, iterative deepening etc. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
+- title: "Informed Search"
+  week: 3
+  date: 30.11.1397
+  filename: uninformed_search_1
+  dirname: files
+  tldr: "BFS, Uniform-Cost search, Heuristic and A*  search. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
+- title: "Informed Search"
+  week: 4
+  date: 04.12.1397
+  filename: uninformed_search_2
+  dirname: files
+  tldr: "BFS, Uniform-Cost search, Heuristic and A*  search. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
