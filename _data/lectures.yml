@@ -40,3 +40,9 @@
   filename: informed_search_2
   dirname: files
   tldr: "BFS, Uniform-Cost search, Heuristic and A*  search. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
+- title: "Constraint Satisfaction Problems (CSP)"
+  week: 4
+  date: 07.12.1397
+  filename: CSP
+  dirname: files
+  tldr: "Backtracking algorithm, Forward Checking and Constraint Propagation."
