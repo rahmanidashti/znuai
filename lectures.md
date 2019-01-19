@@ -31,7 +31,6 @@ This page contains link to the lectures I give throughout the semester. Clicking
 				<i class="fas fa-file-pdf"></i></a>
 		</strong>
 	</li>
-	<br>
 	{% endfor %}
 </ul>
 
