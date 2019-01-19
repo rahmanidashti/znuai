@@ -15,7 +15,8 @@ This page contains link to the lectures I give throughout the semester. Clicking
 		<br>
 		<span class = "postlower">
 		<strong>Details:
-			</strong> {{ lectures.tldr }}</span>
+			</strong> {{ lectures.tldr }}
+		</span>
 		<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 			<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ lectures.dirname }}">
 				<i class="fab fa-github"></i></a>
@@ -27,5 +28,6 @@ This page contains link to the lectures I give throughout the semester. Clicking
 				<i class="fas fa-file-pdf"></i></a>
 		</strong>
 	</li>
+	<br>
 	{% endfor %}
 </ul>
