@@ -34,3 +34,8 @@ This page contains link to the lectures I give throughout the semester. Clicking
 	<br>
 	{% endfor %}
 </ul>
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
