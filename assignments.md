@@ -37,6 +37,9 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 			&nbsp;&nbsp;
 			<a href="https://github.com/{{ site.githubdir}}/blob/master/{{ assignments.dirname }}/{{ assignments.filename}}.pdf">
 				<i class="fas fa-file-pdf"></i></a>
+			&nbsp;&nbsp;
+			<a href="https://github.com/{{ site.githubdir}}/blob/master/{{ assignments.dirname }}/{{ assignments.filename}}.zip">
+				<i class="fas fa-file-zip"></i></a>
 		</strong>
 	</li>
 	{% endfor %}
