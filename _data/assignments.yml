@@ -1,5 +1,5 @@
 - title: "PH #0: Python/Autograder Toturials"
   duedate: 13.10.1397
-  filename: intro
+  filename: PH_0_PythonAutograder
   dirname: assignments
   tldr: "This short programming homework introduces students to the Python programming language and the autograder."
