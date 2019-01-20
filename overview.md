@@ -11,7 +11,7 @@ No other field in computer science has higher visibility (and expectation, and d
 Office hours:
 
 ## Administrivia
-Here you will find administrative information for the Spring 1397:
+Here you will find administrative information for the Spring 1398:
 
 __Class schedule:__ 
  - Saturaday, 8 to 9.30, Room 
@@ -26,7 +26,7 @@ Office hours:
 Rasoul Mirzaei (mirzaei.rasoul@znu.ac.ir)  
 Office hours:
 
-Kosar Hossein Zadeh
+Kosar Seyedhosseinzadeh (kosar.seyedhosseinzadeh@znu.ac.ir)
 
 ## Grading
 Your final grade will be assigned based on the following (tentative weighting):
