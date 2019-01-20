@@ -45,3 +45,6 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 	</li>
 	{% endfor %}
 </ul>
+
+# Additional Course Materials
+We will add some useful materials here.
