@@ -29,17 +29,14 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 			{{ assignments.tldr }}
 		</span>
 		<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
-			<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ assignments.dirname }}">
+			<!-- <a href="https://github.com/{{ site.githubdir}}/tree/master/{{ assignments.dirname }}">
 				<i class="fab fa-github"></i></a>
-			&nbsp;&nbsp;
-			<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ assignments.dirname }}/{{ assignments.filename}}.Rmd">
+			&nbsp;&nbsp; -->
+			<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ assignments.dirname }}/{{ assignments.filename}}.zip">
 				<i class="fab fa-r-project"></i></a>
 			&nbsp;&nbsp;
-			<a href="https://github.com/{{ site.githubdir}}/blob/master/{{ assignments.dirname }}/{{ assignments.filename}}.pdf">
-				<i class="fas fa-file-pdf"></i></a>
-			&nbsp;&nbsp;
-			<a href="https://github.com/{{ site.githubdir}}/blob/master/{{ assignments.dirname }}/{{ assignments.filename}}.zip">
-				<i class="fas fa-file-zip"></i></a>
+			<!-- <a href="https://github.com/{{ site.githubdir}}/blob/master/{{ assignments.dirname }}/{{ assignments.filename}}.pdf">
+				<i class="fas fa-file-pdf"></i></a> -->
 		</strong>
 	</li>
 	{% endfor %}
