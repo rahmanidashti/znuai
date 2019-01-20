@@ -10,7 +10,7 @@ Course programming assignments will be in Python. We do not assume that students
 # Assignments
 This class includes regular programming projects and written assignments.
 
-__Collaboration__: Project 0 is to be completed alone.  Projects 1 through 5 can be completed alone or in teams of two.  When completing in a team of two it is important that both team members submit their team's project files into edX to ensure a grade is registered for both team members.   Homework is to be submitted individually but may be discussed in groups.
+__Collaboration__: Project 0 is to be completed alone. The other projects can be completed alone or in teams of two. When completing your homework it is important that one of team members submit their team's project files into [ZCS](http://zcs.znu.ac.ir). Written homework is to be submitted individually but may be discussed in groups.
 
 __Project grading__: Projects will by default be graded automatically for correctness, though we will review projects individually as necessary to ensure that they receive the credit they deserve.   
 
@@ -19,7 +19,6 @@ __Slip days__: Programming projects must be turned in electronically by 11:59pm 
 __Ethics__: Submissions should acknowledge all collaborators and sources consulted. All code and written responses should be original. We trust you all to submit your own work, but to protect the integrity of the course from anyone who doesn’t want to play by the rules, we will actively be checking for code plagiarism (both from current classmates and previous semesters).
 
 # Grading
-
 If you believe an error has been made in the grading of one of your exams or assignments, you may send an email to the staff list with a detailed explanation of which problems you think we marked incorrectly and why. We will examine your entire submission in detail, your grade can go up or down as a result of a regrade request.
 
 # Textbook
