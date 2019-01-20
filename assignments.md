@@ -19,7 +19,7 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 		</span>
 		<br>
 		<span>
-			<strong> Due Date: </strong> <span style="font-color:red"> {{ assignments.duedate }} </span>
+			<strong> Due Date: </strong> {{ assignments.duedate }}
 		</span>
 		<br>
 		<span class = "postlower">
