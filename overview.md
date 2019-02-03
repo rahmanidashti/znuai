@@ -26,8 +26,7 @@ Office hours: TBD (please feel free to email me for another time)
 Rasoul Mirzaei (mirzaei.rasoul@znu.ac.ir)  
 Office hours: TBD
 
-Kosar Seyedhosseinzadeh (kosar.seyedhosseinzadeh@znu.ac.ir)  
-Office hours: TBD
+Kosar Seyedhosseinzadeh (kosar.seyedhosseinzadeh@znu.ac.ir)
 
 ## Grading
 Your final grade will be assigned based on the following (tentative weighting):
