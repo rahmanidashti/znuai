@@ -21,14 +21,13 @@ __Final exam__: Monday, June 17, 2019, 8:30-10:30
 
 ## Teaching Assistant
 Hoseein A. Rahmani (srahmani@znu.ac.ir)  
-Office hours:
-()
+Office hours: TBD (please feel free to email me for another time)
 
 Rasoul Mirzaei (mirzaei.rasoul@znu.ac.ir)  
-Office hours:
+Office hours: TBD
 
 Kosar Seyedhosseinzadeh (kosar.seyedhosseinzadeh@znu.ac.ir)  
-Office hours:
+Office hours: TBD
 
 ## Grading
 Your final grade will be assigned based on the following (tentative weighting):
