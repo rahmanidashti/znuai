@@ -22,11 +22,13 @@ __Final exam__: Monday, June 17, 2019, 8:30-10:30
 ## Teaching Assistant
 Hoseein A. Rahmani (srahmani@znu.ac.ir)  
 Office hours:
+()
 
 Rasoul Mirzaei (mirzaei.rasoul@znu.ac.ir)  
 Office hours:
 
 Kosar Seyedhosseinzadeh (kosar.seyedhosseinzadeh@znu.ac.ir)
+Office hours:
 
 ## Grading
 Your final grade will be assigned based on the following (tentative weighting):
@@ -37,7 +39,7 @@ Your final grade will be assigned based on the following (tentative weighting):
 - Participation 5%
 
 ## Announcements + Q&A
-We will use Piazza for questions and any course announcements. (we will think about it!)
+We will use ZCS ([ZNU Courseware](http://zcs.znu.ac.ir)) for questions and any course announcements.
 
 ## Submitting Assignments
 Students will submit their homework electronically using [ZCS](http://zcs.znu.ac.ir).
