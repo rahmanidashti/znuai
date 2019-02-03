@@ -14,8 +14,8 @@ Office hours:
 Here you will find administrative information for the Spring 1398:
 
 __Class schedule:__ 
- - Saturaday, 11 to 12.30, Room 105 ECE
- - Thursday, 8 to 9.30, Room 105 ECE
+ - Saturaday, 11 to 12.30, Room 206, First floor, Civil department
+ - Thursday, 8 to 9.30, Room 206, First floor, Civil department
  
 __Final exam__: Monday, June 17, 2019, 8:30-10:30
 
