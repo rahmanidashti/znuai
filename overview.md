@@ -27,7 +27,7 @@ Office hours:
 Rasoul Mirzaei (mirzaei.rasoul@znu.ac.ir)  
 Office hours:
 
-Kosar Seyedhosseinzadeh (kosar.seyedhosseinzadeh@znu.ac.ir)
+Kosar Seyedhosseinzadeh (kosar.seyedhosseinzadeh@znu.ac.ir)  
 Office hours:
 
 ## Grading
