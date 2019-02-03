@@ -10,7 +10,7 @@ Course programming assignments will be in Python. We do not assume that students
 # Assignments
 This class includes regular programming projects and written assignments.
 
-__Collaboration__: Project 0 is to be completed alone. The other projects can be completed alone or in teams of two. When completing your homework it is important that one of team members submit their team's project files into [ZCS](http://zcs.znu.ac.ir). Written homework is to be submitted individually but may be discussed in groups.
+__Collaboration__: The programming homework will be completed in teams of three. When completing your homework it is important that one of team members (team leader) submit their team's project files into [ZCS](http://zcs.znu.ac.ir). Written homework is to be submitted same as the programming homework.
 
 __Project grading__: Projects will by default be graded automatically for correctness, though we will review projects individually as necessary to ensure that they receive the credit they deserve.   
 
