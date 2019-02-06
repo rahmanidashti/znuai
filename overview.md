@@ -21,7 +21,7 @@ __Final exam__: Monday, June 17, 2019, 8:30-10:30
 
 ## Teaching Assistant
 Hoseein A. Rahmani (srahmani@znu.ac.ir)  
-Office hours: TBD (please feel free to email me for another time)
+Office hours: Sunday 14-16 pm and Tuesday 14-16 pm (please feel free to [email me](mailto:srahmani@znu.ac.ir) for another time)
 
 Rasoul Mirzaei (mirzaei.rasoul@znu.ac.ir)  
 Office hours: TBD
