@@ -47,4 +47,4 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 </ul>
 
 # Additional Course Materials
-We will add some useful materials here.
+- [MIT Open Courseware - Artificial Intelligence Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
