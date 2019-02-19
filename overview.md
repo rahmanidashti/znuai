@@ -32,9 +32,9 @@ Kosar Seyedhosseinzadeh (kosar.seyedhosseinzadeh@znu.ac.ir)
 Your final grade will be assigned based on the following (tentative weighting):
 - Midterms 10% (each) (No preset time)
 - Final 30%
-- Programming homework 35%
+- Programming homework 40%
 - Written homework 10%
-- Participation 5%
+- Participation 10%
 
 ## Announcements + Q&A
 We will use ZCS ([ZNU Courseware](http://zcs.znu.ac.ir)) for questions and any course announcements.
