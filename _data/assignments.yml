@@ -3,3 +3,8 @@
   filename: PH_0_PythonAutograder
   dirname: assignments
   tldr: "This short programming homework introduces students to the Python programming language and the autograder."
+- title: "WH #0: Searches"
+  duedate: 13.12.1397
+  filename: WH_0_Search
+  dirname: assignments
+  tldr: "Search algorithms"
