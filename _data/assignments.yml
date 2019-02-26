@@ -8,3 +8,8 @@
   filename: WH_0_Search
   dirname: assignments
   tldr: "Search algorithms"
+- title: "PH #1: Searches"
+  duedate: 24.12.1397
+  filename: PH_1_Search
+  dirname: assignments
+  tldr: "Search algorithms (DFS, BFS, UCS, A*)"
