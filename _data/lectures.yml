@@ -82,3 +82,39 @@
   filename: 
   dirname: files
   tldr: "There is no any materials."
+- title: "Intro to Machine Learning"
+  week: 8
+  date: 17.01.1398
+  filename: IntroToML
+  dirname: files
+  tldr: "Basics of Machine Learning"
+- title: "k-Nearest-Neighbor Algorithm"
+  week: 8
+  date: 20.01.1398
+  filename: kNN
+  dirname: files
+  tldr: "k-Nearest-Neighbor Algorithm"
+- title: "k-Nearest-Neighbor Algorithm"
+  week: 9
+  date: 24.01.1398
+  filename:
+  dirname: files
+  tldr: "k-Nearest-Neighbor Algorithm"
+- title: "Decision Trees"
+  week: 9
+  date: 27.01.1398
+  filename: DecisionTrees
+  dirname: files
+  tldr: "Decision Trees"
+- title: "Neural Networks"
+  week: 10
+  date: 31.01.1398
+  filename: NN
+  dirname: files
+  tldr: "Perceptron"
+- title: "Neural Networks"
+  week: 10
+  date: 03.02.1398
+  filename: MLP
+  dirname: files
+  tldr: "Multi-Layer Perceptrons"
