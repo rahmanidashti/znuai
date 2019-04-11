@@ -118,3 +118,27 @@
   filename: MLP
   dirname: files
   tldr: "Multi-Layer Perceptrons"
+- title: "Neural Networks"
+  week: 11
+  date: 07.02.1398
+  filename:
+  dirname: files
+  tldr: "Multi-Layer Perceptrons"
+- title: "Deep Learning"
+  week: 11
+  date: 10.02.1398
+  filename:
+  dirname: files
+  tldr: "Deep Learning"
+- title: "Deep Learning"
+  week: 12
+  date: 14.02.1398
+  filename:
+  dirname: files
+  tldr: "Deep Learning"
+- title: "Bayesian Learning"
+  week: 12
+  date: 17.02.1398
+  filename:
+  dirname: files
+  tldr: "Bayesian Learning"
