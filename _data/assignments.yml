@@ -6,6 +6,7 @@
 - title: "WH #0: Searches"
   duedate: 13.12.1397
   filename: WH_0_Search
+  answerfile: WH_0_Search_Answers
   dirname: assignments
   tldr: "Search algorithms"
 - title: "PH #1: Searches"
