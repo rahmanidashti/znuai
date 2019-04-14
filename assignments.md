@@ -35,7 +35,7 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 			<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ assignments.dirname }}/{{ assignments.filename}}.zip">
 				<i class="fab fa-r-project"></i></a>
 			&nbsp;&nbsp;
-			{% if assignments.filename != '' %}
+			{% if assignments.filename == 'WH_0_Search' %}
 				<span>Saeed</span>
 			{% endif %}
 			<!-- <a href="https://github.com/{{ site.githubdir}}/blob/master/{{ assignments.dirname }}/{{ assignments.filename}}.pdf">
