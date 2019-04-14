@@ -142,3 +142,51 @@
   filename:
   dirname: files
   tldr: "Bayesian Learning"
+- title: "Markov Decision Process"
+  week: 13
+  date: 21.02.1398
+  filename: MP
+  dirname: files
+  tldr: "Markov Models, Hidden Markov Models"
+- title: "Markov Decision Process"
+  week: 13
+  date: 24.02.1398
+  filename: MDP
+  dirname: files
+  tldr: "Markov Decision Process"
+- title: "Reinforcement Learning"
+  week: 14
+  date: 28.02.1398
+  filename: RL
+  dirname: files
+  tldr: "Reinforcement Learning"
+- title: "Reinforcement Learning"
+  week: 14
+  date: 31.02.1398
+  filename:
+  dirname: files
+  tldr: "Reinforcement Learning"  
+- title: "Advanced Topcis"
+  week: 15
+  date: 04.03.1398
+  filename:
+  dirname: files
+  tldr: "Advanced Topcis in Artificial Intelligence by Hossein A. Rahmani"
+- title: "Advanced Topcis"
+  week: 15
+  date: 07.03.1398
+  filename:
+  dirname: files
+  tldr: "Advanced Topcis in Artificial Intelligence by Hossein A. Rahmani"
+- title: "Advanced Topcis"
+  week: 14
+  date: 11.03.1398
+  filename:
+  dirname: files
+  tldr: "Advanced Topcis in Artificial Intelligence by Hossein A. Rahmani"
+- title: "Holiday"
+  week: 14
+  date: 14.03.1398
+  filename:
+  dirname: files
+  tldr: "Holiday"
