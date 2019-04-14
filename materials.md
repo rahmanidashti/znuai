@@ -48,3 +48,4 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 
 # Additional Course Materials
 - [MIT Open Courseware - Artificial Intelligence Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+- [Old Course Page - Dr. Mohsen Afsharchi](http://cv.znu.ac.ir/afsharchim/AI/AI.htm)
