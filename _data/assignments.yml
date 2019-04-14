@@ -1,7 +1,6 @@
 - title: "PH #0: Python/Autograder Toturials"
   duedate: 26.11.1397
   filename: PH_0_PythonAutograder
-  answerfile:
   dirname: assignments
   tldr: "This short programming homework introduces students to the Python programming language and the autograder."
 - title: "WH #0: Searches"
