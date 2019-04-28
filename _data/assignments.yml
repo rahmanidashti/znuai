@@ -15,3 +15,9 @@
   answerfile:
   dirname: assignments
   tldr: "Search algorithms (DFS, BFS, UCS, A*)"
+- title: "PH #2: CSP"
+  duedate: 16.02.1398
+  filename: PH_2_CSP
+  answerfile:
+  dirname: assignments
+  tldr: "A CSP problem"
