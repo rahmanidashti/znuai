@@ -21,3 +21,9 @@
   answerfile:
   dirname: assignments
   tldr: "A CSP problem"
+- title: "PH #3: kNN"
+  duedate: 27.02.1398
+  filename: PH_3_kNN
+  answerfile:
+  dirname: assignments
+  tldr: "MNIST kNN"
