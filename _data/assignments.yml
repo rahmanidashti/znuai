@@ -27,3 +27,9 @@
   answerfile:
   dirname: assignments
   tldr: "MNIST kNN"
+- title: "PH #4: DNN"
+  duedate: 03.03.1398
+  filename: PH_4_DNN
+  answerfile:
+  dirname: assignments
+  tldr: "AliBaba Dataset"
