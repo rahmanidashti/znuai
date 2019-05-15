@@ -32,6 +32,7 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 		</strong>
 			{{ lectures.tldr }}
 		</span>
+		<br>
 		<span class = "postlower">
 		<strong>
 			Video:
