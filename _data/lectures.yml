@@ -109,7 +109,9 @@
   date: 27.01.1398
   filename: DecisionTrees
   dirname: files
-  tldr: "Decision Trees"
+  tldr: "Decision Tree"
+  video_link: https://drive.google.com/file/d/1bHbCePzilD_uToZ_mfU073bQwK2lsGWf/view?usp=sharing
+  video_title: "Decision Tree"
 - title: "Neural Networks"
   week: 10
   date: 31.01.1398
