@@ -32,6 +32,13 @@ embedded in the user's browser, by default. The bottom right icons link to the G
 		</strong>
 			{{ lectures.tldr }}
 		</span>
+		<span class = "postlower">
+		<strong>
+			Video:
+		</strong>
+			<a href="{{ lectures.video_link }}">{{ lectures.video_title }}</a>
+		</span>
+		
 		<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 			<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ lectures.dirname }}">
 				<i class="fab fa-github"></i></a>
