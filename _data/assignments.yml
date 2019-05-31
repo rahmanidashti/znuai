@@ -33,3 +33,9 @@
   answerfile:
   dirname: assignments
   tldr: "AliBaba Dataset"
+- title: "PH #5: RSs"
+  duedate: 10.04.1398
+  filename: PH_5_RS
+  answerfile:
+  dirname: assignments
+  tldr: "DigiKala Dataset"
