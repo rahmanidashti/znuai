@@ -162,18 +162,24 @@
   filename: MDP
   dirname: files
   tldr: "Markov Decision Process"
+  video_link: https://drive.google.com/file/d/1Em4Z-dUzKnsbaAOmrXx3eFgBTu8Y67iu/view?usp=sharing
+  video_title: Reinforcement Learning 1
 - title: "Reinforcement Learning"
   week: 14
   date: 28.02.1398
   filename: RL
   dirname: files
   tldr: "Reinforcement Learning"
+  video_link: https://drive.google.com/file/d/1pfFt98YcHYSr0KGbBgbCZRVUJORKoXEs/view?usp=sharing
+  video_title: Reinforcement Learning 2
 - title: "Reinforcement Learning"
   week: 14
   date: 31.02.1398
   filename:
   dirname: files
-  tldr: "Reinforcement Learning"  
+  tldr: "Reinforcement Learning"
+  video_link: https://drive.google.com/file/d/1UnR7sc-7hxMFt0Q-ZP4YX7F51V1eSfuO/view?usp=sharing
+  video_title: Reinforcement Learning 3
 - title: "Advanced Topcis"
   week: 15
   date: 04.03.1398
