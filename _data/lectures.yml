@@ -120,12 +120,16 @@
   filename: NN
   dirname: files
   tldr: "Perceptron"
+  video_link: https://drive.google.com/file/d/1PP_2Wp4PVRXusW5JEDI4TPOCbuGwCZYv/view?usp=sharing
+  video_title: "Neural Networks 1"
 - title: "Neural Networks"
   week: 10
   date: 03.02.1398
   filename: MLP
   dirname: files
   tldr: "Multi-Layer Perceptrons"
+  video_link: https://drive.google.com/file/d/1RwLDyUgk_xywK6XqpRMCGLUZTwjwSsez/view?usp=sharing
+  video_title: "Neural Networks 2"
 - title: "Neural Networks"
   week: 11
   date: 07.02.1398
