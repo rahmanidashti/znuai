@@ -46,6 +46,8 @@
   filename: CSP
   dirname: files
   tldr: "Backtracking algorithm, Forward Checking and Constraint Propagation."
+  video_link: https://drive.google.com/file/d/1HOHtgWNxN4dxO1J2WWO3Jnkm3Id7JuFr/view?usp=sharing
+  video_title: "CSP"
 - title: "Beyond Classical Search"
   week: 5
   date: 11.12.1397
