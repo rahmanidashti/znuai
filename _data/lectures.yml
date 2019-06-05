@@ -22,12 +22,16 @@
   filename: uninformed_search
   dirname: files
   tldr: "DFS, BFS, iterative deepening etc. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
+  video_link: https://drive.google.com/file/d/1SiJFK23n2vPR572mG1oAMFIN3tuU4BxA/view?usp=sharing
+  video_title: "Search 1"
 - title: "Uninformed Search"
   week: 3
   date: 27.11.1397
   filename:
   dirname: files
   tldr: "DFS, BFS, iterative deepening etc. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
+  video_link: https://drive.google.com/file/d/1w3lKAc33dA8NCNMW04PZO3IH97a2QY3G/view?usp=sharing
+  video_title: "Search 2"
 - title: "Informed Search"
   week: 3
   date: 30.11.1397
@@ -40,6 +44,8 @@
   filename: informed_search_2
   dirname: files
   tldr: "BFS, Uniform-Cost search, Heuristic and A*  search. Lecture slides (Courtesy of Tomas Lozano-Perez - MIT)"
+  video_link: https://drive.google.com/file/d/1hUnvuNHHfD4HA_wedJmNoAwMrhYSeRHV/view?usp=sharing
+  video_title: "Hill Climbing"
 - title: "Constraint Satisfaction Problems (CSP)"
   week: 4
   date: 07.12.1397
@@ -54,6 +60,8 @@
   filename: advanced_search
   dirname: files
   tldr: "Hill Climbing, Simulated Annealing"
+  video_link: https://drive.google.com/file/d/1sGfvz1r-L6f9sGIMmXM3nEOUYeS7sEVL/view?usp=sharing
+  video_title: "Simulated Annealing"
 - title: "Beyond Classical Search"
   week: 5
   date: 14.12.1397
